@@ -14,6 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: Creek and Mesa
 cta:
   domain: null
   bucket: null
