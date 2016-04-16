@@ -1,28 +1,40 @@
-name: creekandmesa
 favicon: null
-layout_spectrum: 0.3547433759085834
-typography_spectrum: 0.1666537777055055
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: creekandmesa
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.1357504
+  brandStrength: 0.6390820387750864
+  lightness: 0.8962901
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.6390820387750864
-  lightness: 0.45276512834243476
-  saturation: 0.416783242020756
-  rhythmicContrast: 0.6420753023121506
-purpose: []
+  rhythmicContrast: 0.2639123
+typography_spectrum: 0
+layout_spectrum: 0.8077571
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
