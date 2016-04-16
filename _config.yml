@@ -1,0 +1,28 @@
+name: creekandmesa
+favicon: null
+layout_spectrum: 0.3547433759085834
+typography_spectrum: 0.1666537777055055
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6390820387750864
+  lightness: 0.45276512834243476
+  saturation: 0.416783242020756
+  rhythmicContrast: 0.6420753023121506
+purpose: []
