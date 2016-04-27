@@ -1,32 +1,4 @@
-name: creekandmesa
-favicon: null
-layout_spectrum: 0.99903
-typography_spectrum: 0.18472
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-title: Kerry Estey Keith
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#fcfcfc'
@@ -36,6 +8,11 @@ color:
     - '#997656'
   brandStrength: 0
   lightness: 0.8125
-  saturation: 1
   rhythmicContrast: 0.01686341
+  saturation: 1
+cta: {}
+layout_spectrum: 0.412829
+name: creekandmesa
+opengraph: {}
 purpose: []
+typography_spectrum: 0.18472
